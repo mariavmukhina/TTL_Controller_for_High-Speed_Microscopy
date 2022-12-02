@@ -9,11 +9,9 @@ An inexpensive TTL controller consisting of Arduino and custom-made printed boar
 Have a question? Get in touch!
 You can email me at mmukhina@fas.harvard.edu, or raise a support [issue](https://github.com/mariavmukhina/TTL_Controller_for_Microscope/issues/new?assignees=mariavmukhina&labels=help+wanted&template=support-request.md&title=%5BSUPPORT%5D).
 
-## Kleckner Lab Acknowledgement
+### Kleckner Lab Acknowledgement
 
-Please acknowledge the Kleckner Lab in your publications. An appropriate wording would be:
-
-"The TTL controller design was provided by the laboratory of Nancy Kleckner at Harvard University, funded in part by National Institutes of Health (NIH) grant R35GM136322."
+Please acknowledge the Kleckner Lab in your publications. An appropriate wording would be: "The TTL controller design was provided by the laboratory of Nancy Kleckner at Harvard University, funded in part by National Institutes of Health (NIH) grant R35GM136322."
 
 
 
