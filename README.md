@@ -4,7 +4,7 @@
 
 An inexpensive Transistor-Transistor Logic (TTL) controller consisting of Arduino and custom-made printed board that listens to firing TTL pulse from camera and generates up to 8 TTL output pulses. [Software for the controller](https://github.com/mariavmukhina/ScopeScript/tree/main/hardwareControl/piezoController/arduinoFirmware) in Arduino programming language allows to synchronize camera image acquisition with turning on epi or brightfield illumination, moving the piezoelectric Z stage, and applying mechanical deformations to the sample with nanomanipulator, as shown below. 
 
-The unique feature of the controller is fast aqcuisition in 3D, which is achieved by sending the full "recipe" for a 3D stack to the piezoelectric Z stage before the acquisition starts. In the test experiments, the controller coupled to PI NanoZ stage and sCMOS Hamamatsu Flash 4.0 V3 camera enabled acquisition over a volume up to 133x133x100 µm^3 in 1.42 sec that is equivalent to the rate of 4.2x10^8 voxels/sec (with 10 msec exposure per z slice and 1 µm axial resolution). 
+The unique feature of the controller is fast aqcuisition in 3D, which is achieved by sending the full "recipe" for a 3D stack to the piezoelectric Z stage before the acquisition starts. In the test experiments, the controller coupled to PI NanoZ stage and sCMOS Hamamatsu Flash 4.0 V3 camera enabled acquisition over a volume up to 133x133x100 µm^3 in 1.42 sec that is equivalent to the rate of 2.9x10^8 voxels/sec (with 10 msec exposure per z slice and 1 µm axial resolution). 
 
 The provided files contain design files for the custom printed circuit board (PCB, can be ordered from https://oshpark.com/), the parts list for the PCB, and soldering and assembling instructions.
 
