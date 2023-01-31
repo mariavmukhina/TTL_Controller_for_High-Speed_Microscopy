@@ -10,8 +10,7 @@ The provided files contain design files for the custom printed circuit board (PC
 
 <img src="https://github.com/mariavmukhina/TTL_Controller_for_Microscope/blob/main/images/TTL%20triggering%20scheme.png" >
 
-Have a question? Get in touch!
-You can email me at mmukhina@fas.harvard.edu, or raise a support [issue](https://github.com/mariavmukhina/TTL_Controller_for_Microscope/issues/new?assignees=mariavmukhina&labels=help+wanted&template=support-request.md&title=%5BSUPPORT%5D).
+Have a question? Get in touch! You can raise a support [issue](https://github.com/mariavmukhina/TTL_Controller_for_Microscope/issues/new?assignees=mariavmukhina&labels=help+wanted&template=support-request.md&title=%5BSUPPORT%5D).
 
 Frederick Chang designed and programmed the controller (2017). Maria Mukhina introduced changes to the board design to add additional epi channel and new TTL output for optional peripheral device (2020). 
 
