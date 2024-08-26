@@ -1,6 +1,6 @@
 # TTL Controller for High-Speed Microscopy 
 
-<img src="https://github.com/mariavmukhina/TTL_Controller_for_Microscope/blob/main/images/controller-small.jpg">  
+<img src="https://github.com/mariavmukhina/TTL_Controller_for_High-Speed_Microscopy/blob/master/images/controller-small.jpg">  
 
 An inexpensive Transistor-Transistor Logic (TTL) controller consisting of Arduino and custom-made printed board that listens to firing TTL pulse from camera and generates up to 8 TTL output pulses. [Software for the controller](https://github.com/mariavmukhina/ScopeScript/tree/main/hardwareControl/piezoController/arduinoFirmware) in Arduino programming language allows to synchronize camera image acquisition with turning on epi or brightfield illumination, moving the piezoelectric Z stage, and applying mechanical deformations to the sample with nanomanipulator, as shown below. 
 
